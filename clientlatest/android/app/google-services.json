@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110312529484",
+    "project_id": "vestlydev-a7378",
+    "storage_bucket": "vestlydev-a7378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110312529484:android:53bcee70be859d6ff89ee9",
+        "android_client_info": {
+          "package_name": "com.Intelligration.Vestly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_EVUR8TyLVhJcvQnpodvPHXU3NROAYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

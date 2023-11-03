@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vestly</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">123456789</string>
+</resources>
